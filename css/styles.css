@@ -1,0 +1,20 @@
+.Bullets {
+  font-variant: small-caps;
+  font-size: 20px;
+}
+
+.bg-warning{
+  text-align: center;
+  color: red;
+  font-weight: bolder;
+}
+
+.gif img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  text-align: center;
+}
